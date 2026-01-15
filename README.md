@@ -17,7 +17,7 @@ O sistema não interage diretamente com o cliente nem executa ações operaciona
 1. Clone o repositório:
 ```bash
 git clone https://github.com/SEU_USUARIO/seu-repositorio.git
-cd DSPy_tutorial
+cd customer_intent_router
 ```
 
 2. Crie um ambiente virtual:
@@ -59,7 +59,7 @@ O sistema é capaz de:
 - Decidir se o ticket é simples ou complexo
 - Indicar se o ticket pode seguir um fluxo automatizado ou deve ser escalado para um humano
 
-## Tipos de Intenção (Lista Fechada)
+## Tipos de Intenção 
 
 Todo ticket deve ser classificado em exatamente uma das intenções abaixo:
 
