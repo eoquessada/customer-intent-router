@@ -16,7 +16,7 @@ O sistema não interage diretamente com o cliente nem executa ações operaciona
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/seu-repositorio.git
+git clone https://github.com/eoquessada/customet-intent-router.git
 cd customer_intent_router
 ```
 
